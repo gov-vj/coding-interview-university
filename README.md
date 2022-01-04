@@ -330,7 +330,7 @@ You can use a language you are comfortable in to do the coding part of the inter
 
 - C++
 - Java
-- Python
+- Python --> choosing this for google interview. Don't want to over burden myself.
 
 You could also use these, but read around first. There may be caveats:
 
